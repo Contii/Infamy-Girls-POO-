@@ -1,0 +1,5 @@
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Model\obj\Debug\net5.0\Model.csprojAssemblyReference.cache
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache

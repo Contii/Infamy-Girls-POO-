@@ -1,0 +1,17 @@
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Repositories\bin\Debug\net5.0\Repositories.deps.json
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Repositories\bin\Debug\net5.0\Repositories.dll
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Repositories\bin\Debug\net5.0\ref\Repositories.dll
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Repositories\bin\Debug\net5.0\Repositories.pdb
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Repositories\bin\Debug\net5.0\Common.dll
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Repositories\bin\Debug\net5.0\Domain.dll
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Repositories\bin\Debug\net5.0\Domain.pdb
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Repositories\bin\Debug\net5.0\Common.pdb
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Repositories\obj\Debug\net5.0\Repositories.csprojAssemblyReference.cache
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Repositories\obj\Debug\net5.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfo.cs
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Repositories\obj\Debug\net5.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Repositories\obj\Debug\net5.0\Repositories.csproj.CopyComplete
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Repositories\obj\Debug\net5.0\Repositories.dll
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Repositories\obj\Debug\net5.0\ref\Repositories.dll
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Repositories\obj\Debug\net5.0\Repositories.pdb

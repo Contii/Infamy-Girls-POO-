@@ -1,0 +1,12 @@
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Common\bin\Debug\net5.0\Common.deps.json
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Common\bin\Debug\net5.0\Common.dll
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Common\bin\Debug\net5.0\ref\Common.dll
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Common\bin\Debug\net5.0\Common.pdb
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Common\obj\Debug\net5.0\Common.csprojAssemblyReference.cache
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Common\obj\Debug\net5.0\Common.dll
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Common\obj\Debug\net5.0\ref\Common.dll
+C:\Users\Jhon\Desktop\POO\Repos\InfamyGirls\Common\obj\Debug\net5.0\Common.pdb

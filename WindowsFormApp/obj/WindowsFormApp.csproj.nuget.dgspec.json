@@ -1,0 +1,248 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\WindowsFormApp\\WindowsFormApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\Jhon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jhon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\Model\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\Model\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\Model\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Jhon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jhon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\Persistence\\Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\Persistence\\Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\Jhon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jhon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\Model\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\Model\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\WindowsFormApp\\WindowsFormApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\WindowsFormApp\\WindowsFormApp.csproj",
+        "projectName": "WindowsFormApp",
+        "projectPath": "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\WindowsFormApp\\WindowsFormApp.csproj",
+        "packagesPath": "C:\\Users\\Jhon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\WindowsFormApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jhon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\Model\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\Model\\Domain.csproj"
+              },
+              "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\Jhon\\Desktop\\POO\\Repos\\InfamyGirls\\Persistence\\Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
